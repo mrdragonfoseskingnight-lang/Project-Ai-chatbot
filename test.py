@@ -1,1 +1,1 @@
-rafafafafa
+print("Hello, World!")
