@@ -6,8 +6,8 @@ app = Flask(__name__)
 
 # เริ่มต้นไคลเอนต์ OpenAI
 client = OpenAI(
-    api_key=os.environ.get("OPENTYPHOON_API_KEY"),
-    base_url="https://api.opentyphoon.ai/v1"
+    api_key=os.environ.get("sk-yuzgnijn1KdGLcDExLOMPPPpZZYkuIdfujrczFAY0I3UPtdG"),
+    base_url="https://playground.opentyphoon.ai/"
 )
 
 # เทมเพลต HTML อย่างง่ายสำหรับอินเตอร์เฟซแชท

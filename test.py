@@ -2,7 +2,7 @@ import openai
 
 client = openai.OpenAI(
     api_key="sk-yuzgnijn1KdGLcDExLOMPPPpZZYkuIdfujrczFAY0I3UPtdG",
-    base_url="https://playground.opentyphoon.ai/"
+    base_url="https://playground.opentyphoon.ai"
 )
 
 response = client.chat.completions.create(
