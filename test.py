@@ -1,7 +1,7 @@
 import openai
 
 client = openai.OpenAI(
-    api_key="<sk-yuzgnijn1KdGLcDExLOMPPPpZZYkuIdfujrczFAY0I3UPtdG>",
+    api_key="sk-yuzgnijn1KdGLcDExLOMPPPpZZYkuIdfujrczFAY0I3UPtdG",
     base_url="https://playground.opentyphoon.ai/"
 )
 
